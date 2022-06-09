@@ -1,0 +1,11 @@
+.App {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 150%;
+  background-image: url('./backgroundimgage.png');
+  background-size: cover;
+  opacity: 0.87;
+}
+
